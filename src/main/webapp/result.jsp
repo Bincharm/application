@@ -1,0 +1,2 @@
+${result}
+<%= request.getParameter("fullName")  %>
